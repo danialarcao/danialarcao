@@ -1,4 +1,4 @@
-## Olá, eu sou a Daniela Alarcão!
+## Olá, sou a Daniela Alarcão!
 
 
   <a href="https://github.com/danialarcao">
